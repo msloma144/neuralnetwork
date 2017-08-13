@@ -1,0 +1,4 @@
+from neuralnetwork import NeuralNetworkBatch
+from neuralnetwork import NeuralNetworkStochastic
+from neuralnetwork import NeuralNetworkBiasValue
+from neuralnetwork import NeuralNetworkStocasticBiasValue
